@@ -1,0 +1,18 @@
+.kolom2 {
+    width: 584px;
+    height: auto;
+    margin-left: 205px;
+    background-color: #e6707c;
+}
+
+
+
+footer {
+    width: 784px;
+    height: 100px;
+    background-color: #a73cbd;
+    padding: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
