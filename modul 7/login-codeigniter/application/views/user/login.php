@@ -4,7 +4,7 @@
 </p>
 <html>
 <head>
-    <title>Login118140173</title>
+    <title>Login</title>
     <style>
         input[type=text], input[type=password] {
             padding: 12px 20px;
