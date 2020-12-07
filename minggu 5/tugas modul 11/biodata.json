@@ -1,0 +1,30 @@
+{
+    "biodata" : {
+       "nama" : {
+           "depan" : "Aldi",
+           "belakang" : "Pubiangga"
+       },
+       "jeniskelamin" : "Laki-laki",
+       "status" : "Mahasiswa",
+       "saudara" : {
+           "nama" : "Aldora"
+       },
+       "orangtua" : {
+           "nama" : "Idawati"
+       },
+       "hobby" : {
+           "hobi" : ["main game","menonton"]
+       },
+       "alamat" : {
+           "desa" : "Negeri Tua",
+           "kecamatan" : "Gedung Tataan",
+           "kabupaten" : "Pesawaran",
+       },
+       "sosialmedia" : {
+           "instagram" : "Aldipbngga",
+           "github" : "aldipubiangga",
+           "line" : "@aldipbngga",
+           "whatsapp" : "089690391113"
+       }
+    }
+}

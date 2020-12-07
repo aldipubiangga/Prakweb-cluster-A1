@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<biodata>
+    <nama>
+        <depan>Aldi</depan>
+        <belakang>Pubiangga</belakang>
+    </nama>
+    <jeniskelamin>Laki-laki</jeniskelamin>
+    <status>Mahasiswa</status>
+    <saudara>
+        <nama>Aldora</nama>
+    </saudara>
+    <orangtua>
+        <nama>Idawati</nama>
+    </orangtua>
+    <hobby>
+        <hobi>main game</hobi>
+        <hobi>menonton</hobi>
+    </hobby>
+    <alamat>
+        <desa>Negeri Tua</desa>
+        <kecamatan>Gedung Tataan</kecamatan>
+        <kebupaten>Pesawaran</kebupaten>
+    </alamat>
+    <sosialmedia>
+        <instagram>Aldipbngga</instagram>
+        <github>aldipubiangga</github>
+        <line>@aldipbngga</line>
+        <whatsapp>089690391113</whatsapp>
+    </sosialmedia>
+</biodata>
